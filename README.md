@@ -1,10 +1,8 @@
-﻿# Crave Craft
-🍴 CraveCraft — Food & Recipe Website
-
 <p align="center">
   <img src="dinner.png" alt="CraveCraft Food Website" width="850">
 </p>
 
+<h1 align="center">🍴 CraveCraft</h1>
 <h3 align="center">✨ A colorful, modern and responsive food & recipe website ✨</h3>
 
 <p align="center">
@@ -16,134 +14,73 @@
   <img src="https://img.shields.io/badge/Responsive-Design-20C997?style=for-the-badge">
 </p>
 
-🌈 About CraveCraft
+---
 
-CraveCraft is a colorful food and recipe website designed to make food discovery simple, enjoyable and visually engaging.
+## 🌈 About CraveCraft
 
-The website brings together recipe categories, featured food ideas, cooking inspiration, an About section, a recipe eBook area and a newsletter section in one modern responsive interface.
+CraveCraft is a colorful food and recipe website designed to make food discovery simple, enjoyable, and visually engaging.
 
-This project was created as a Frontend Web Development project to practice real-world HTML and CSS concepts including responsive layouts, Flexbox, CSS Grid, cards, forms, images, typography, hover effects and reusable styling.
+The site brings together recipe categories, featured food ideas, cooking inspiration, an About section, a recipe eBook area, and a newsletter section in one modern, responsive interface.
 
-🍕 Features
+This project was built as a Frontend Web Development project to practice real-world HTML and CSS concepts — responsive layouts, Flexbox, CSS Grid, cards, forms, images, typography, hover effects, and reusable styling.
 
-Feature
+---
 
-Description
+## 🍕 Features
 
-🏠 Hero Section
+| Feature | Description |
+|---|---|
+| 🏠 Hero Section | Attractive food-focused landing section with CTA buttons and statistics |
+| 🍽️ Categories | Dinner, Healthy, Cheesy, Non-Veg, Chinese, Chocolate, Meal Prep and Soup |
+| 🔎 Search UI | Dedicated recipe search interface |
+| ⭐ Featured Recipes | Popular and trending recipe cards |
+| 👩‍🍳 About | Introduction to the CraveCraft concept |
+| 📌 Inspiration | Visual food inspiration gallery |
+| 📕 Free eBook | Recipe eBook signup section |
+| 📧 Newsletter | Email subscription interface |
+| 🦶 Footer | Navigation, categories, social links and project information |
+| 📱 Responsive | Desktop, tablet and mobile layouts |
 
-Attractive food-focused landing section with CTA buttons and statistics
+---
 
-🍽️ Categories
+## 🎨 Colorful Design
 
-Dinner, Healthy, Cheesy, Non-Veg, Chinese, Chocolate, Meal Prep and Soup
+CraveCraft uses a warm, food-inspired palette:
 
-🔎 Search UI
+| Color | Use |
+|---|---|
+| 🟠 Orange | Primary branding and actions |
+| 🟡 Yellow | Highlights |
+| 🩷 Pink | Sweet / colorful accents |
+| 🟢 Green | Healthy food sections |
+| 🟣 Purple | Category accents |
+| 🔵 Teal | Fresh accents |
+| 🤎 Dark Brown | Text and footer |
+| 🤍 Cream | Main background |
 
-Dedicated recipe search interface
+**Typography**
+- **Playfair Display** — headings
+- **DM Sans** — body text and UI
 
-⭐ Featured Recipes
+---
 
-Popular and trending recipe cards
+## 🍽️ Recipe Categories
 
-👩‍🍳 About
+`🍝 Dinner` `🥗 Healthy` `🧀 Cheesy` `🍗 Non-Veg` `🥢 Chinese` `🍫 Chocolate` `🍱 Meal Prep` `🍲 Soup`
 
-Introduction to the CraveCraft concept
+---
 
-📌 Inspiration
+## 📱 Responsive Design
 
-Visual food inspiration gallery
+| Breakpoint | Layout |
+|---|---|
+| 🖥️ **Desktop** | Large hero layout, multi-column grids, full navigation, large food imagery |
+| 💻 **Tablet** | Flexible grid layouts, adjusted spacing, responsive typography |
+| 📱 **Mobile** | Mobile-friendly layouts, responsive images, flexible buttons & forms, two-column category cards, single-column recipe sections, no unintended horizontal overflow |
 
-📕 Free eBook
+---
 
-Recipe eBook signup section
-
-📧 Newsletter
-
-Email subscription interface
-
-🦶 Footer
-
-Navigation, categories, social links and project information
-
-📱 Responsive
-
-Desktop, tablet and mobile layouts
-
-🎨 Colorful Design
-
-CraveCraft uses a warm food-inspired palette:
-
-🟠 Orange — Primary branding and actions
-🟡 Yellow — Highlights
-🩷 Pink — Sweet/colorful accents
-🟢 Green — Healthy food sections
-🟣 Purple — Category accents
-🔵 Teal — Fresh accents
-🤎 Dark Brown — Text and footer
-🤍 Cream — Main background
-
-Typography
-
-Playfair Display — headings
-
-DM Sans — body text and UI
-
-🍽️ Recipe Categories
-
-🍝 Dinner
-
-🥗 Healthy
-
-🧀 Cheesy
-
-🍗 Non-Veg
-
-🥢 Chinese
-
-🍫 Chocolate
-
-🍱 Meal Prep
-
-🍲 Soup
-
-📱 Responsive Design
-
-The website adapts to:
-
-🖥️ Desktop
-
-Large hero layout
-
-Multi-column grids
-
-Full navigation
-
-Large food imagery
-
-💻 Tablet
-
-Flexible grid layouts
-
-Adjusted spacing
-
-Responsive typography
-
-📱 Mobile
-
-Mobile-friendly layouts
-
-Responsive images
-
-Flexible buttons and forms
-
-Two-column category cards where appropriate
-
-Single-column recipe sections
-
-No intentional horizontal overflow
-
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -156,8 +93,11 @@ No intentional horizontal overflow
   <img src="https://img.shields.io/badge/GitHub-Hosting-181717?style=flat-square&logo=github">
 </p>
 
-📂 Project Structure
+---
 
+## 📂 Project Structure
+
+```
 Food/
 │
 ├── .vscode/
@@ -170,14 +110,7 @@ Food/
 ├── quick.png
 ├── salad.png
 │
-├── img1.jpg
-├── img2.jpg
-├── img3.jpg
-├── img4.jpg
-├── img5.jpg
-├── img6.jpg
-├── img7.jpg
-├── img8.jpg
+├── img1.jpg ... img8.jpg
 │
 ├── sum-img.jpg
 ├── staw.jpg
@@ -196,349 +129,204 @@ Food/
 ├── twitter.png
 ├── wp.png
 │
-├── ss1.png
-├── ss2.png
-├── ss3.png
-├── ss4.png
-├── ss5.png
-├── ss6.png
-├── ss7.png
-└── ss8.png
+└── ss1.png ... ss8.png
+```
 
-🖼️ Screenshots
+---
 
-🏠 Homepage
+## 🖼️ Screenshots
 
 <p align="center">
+  <b>🏠 Homepage</b><br>
   <img src="ss1.png" alt="CraveCraft Homepage" width="900">
 </p>
 
-🍽️ Categories
-
 <p align="center">
+  <b>🍽️ Categories</b><br>
   <img src="ss2.png" alt="CraveCraft Categories" width="900">
 </p>
 
-⭐ Featured Recipes
-
 <p align="center">
+  <b>⭐ Featured Recipes</b><br>
   <img src="ss3.png" alt="CraveCraft Featured Recipes" width="900">
 </p>
 
-👩‍🍳 About Section
-
 <p align="center">
+  <b>👩‍🍳 About Section</b><br>
   <img src="ss4.png" alt="CraveCraft About Section" width="900">
 </p>
 
-📌 Food Inspiration
-
 <p align="center">
+  <b>📌 Food Inspiration</b><br>
   <img src="ss5.png" alt="CraveCraft Food Inspiration" width="900">
 </p>
 
-📕 Recipe eBook
-
 <p align="center">
+  <b>📕 Recipe eBook</b><br>
   <img src="ss6.png" alt="CraveCraft eBook Section" width="900">
 </p>
 
-📧 Newsletter
-
 <p align="center">
+  <b>📧 Newsletter</b><br>
   <img src="ss7.png" alt="CraveCraft Newsletter" width="900">
 </p>
 
-📱 Responsive Design
-
 <p align="center">
+  <b>📱 Responsive Design</b><br>
   <img src="ss8.png" alt="CraveCraft Responsive Design" width="500">
 </p>
 
-🧠 Concepts Practiced
+---
 
-HTML5
+## 🧠 Concepts Practiced
 
-Semantic structure
+**HTML5** — semantic structure, navigation, sections, forms, images, links, buttons, alt text
 
-Navigation
+**CSS3** — variables, Flexbox, CSS Grid, positioning, gradients, shadows, border radius, typography, hover effects, transitions, media queries
 
-Sections
+**Responsive layout flow:** Desktop → Tablet → Mobile
 
-Forms
+---
 
-Images
+## 🚀 Getting Started
 
-Links
-
-Buttons
-
-Alt text
-
-CSS3
-
-CSS variables
-
-Flexbox
-
-CSS Grid
-
-Positioning
-
-Gradients
-
-Shadows
-
-Border radius
-
-Typography
-
-Hover effects
-
-Transitions
-
-Media queries
-
-Responsive Layout
-
-Desktop
-   ↓
-Tablet
-   ↓
-Mobile
-
-🚀 Getting Started
-
-1. Clone the Repository
-
+**1. Clone the repository**
+```bash
 git clone https://github.com/gayathrikrishnacodes/food.git
+```
 
-2. Open the Project
-
+**2. Open the project**
+```bash
 cd food
+```
 
-3. Open in VS Code
-
+**3. Open in VS Code**
+```bash
 code .
+```
 
-4. Run the Website
+**4. Run the website**
 
-This is a frontend project, so no backend installation is required.
+This is a frontend-only project — no backend installation required. Open `index.html` directly in your browser, or use VS Code's Live Server extension.
 
-Open:
+---
 
-index.html
+## 🔗 Project Links
 
-in your browser, or use VS Code Live Server.
+- 💻 **GitHub Repository:** [github.com/gayathrikrishnacodes/food](https://github.com/gayathrikrishnacodes/food)
+- 🌐 **Live Demo:** *(add your deployed website URL here once deployed)*
 
-🔗 Project Links
+---
 
-💻 GitHub Repository
+## 📊 Project Highlights
 
-https://github.com/gayathrikrishnacodes/food
+| Area | Details |
+|---|---|
+| 🎨 Design | Colorful Food Blog UI |
+| 📱 Responsive | Desktop + Tablet + Mobile |
+| 🧱 Frontend | HTML5 + CSS3 |
+| 📐 Layout | Flexbox + CSS Grid |
+| 🖼️ Images | Food photography |
+| ✨ Effects | Hover + transitions |
+| 🔎 Search UI | Included |
+| 📧 Forms | Newsletter + eBook |
+| 🗂️ Categories | 8 food categories |
+| 📸 Screenshots | 8 screenshots |
+| 🔧 Backend | Not included |
+| 🗄️ Database | Not included |
 
-🌐 Live Demo
+---
 
-Add your deployed website URL here when you deploy the project.
+## 🔮 Future Improvements
 
-No fake live-demo URL is included.
+This frontend can later be expanded into a complete full-stack food application:
 
-📊 Project Highlights
+- 🔍 Functional recipe search
+- ❤️ Favorite recipes
+- 👤 User authentication
+- 📖 Individual recipe pages
+- 📝 Add / edit / delete recipes
+- 🛒 Shopping list
+- ⭐ Ratings and reviews
+- 💬 Comments
+- 🌙 Dark mode
+- 📧 Email notifications
+- 📊 Admin dashboard
+- 🗄️ MongoDB database
+- ⚛️ React.js version
+- 🔌 REST API
 
-Area
+**Planned future architecture (MERN):**
 
-Details
+```
+React.js Frontend
+        ↓
+Express.js REST API
+        ↓
+Node.js Backend
+        ↓
+MongoDB Database
+```
 
-🎨 Design
+---
 
-Colorful Food Blog UI
-
-📱 Responsive
-
-Desktop + Tablet + Mobile
-
-🧱 Frontend
-
-HTML5 + CSS3
-
-📐 Layout
-
-Flexbox + CSS Grid
-
-🖼️ Images
-
-Food photography
-
-✨ Effects
-
-Hover + transitions
-
-🔎 Search UI
-
-Included
-
-📧 Forms
-
-Newsletter + eBook
-
-🗂️ Categories
-
-8 food categories
-
-📸 Screenshots
-
-8 screenshots
-
-🔧 Backend
-
-Not included
-
-🗄️ Database
-
-Not included
-
-🔮 Future Improvements
-
-The frontend can later be expanded into a complete full-stack food application.
-
-🔍 Functional recipe search
-
-❤️ Favorite recipes
-
-👤 User authentication
-
-📖 Individual recipe pages
-
-📝 Add/edit/delete recipes
-
-🛒 Shopping list
-
-⭐ Ratings and reviews
-
-💬 Comments
-
-🌙 Dark mode
-
-📧 Email notifications
-
-📊 Admin dashboard
-
-🗄️ MongoDB database
-
-⚛️ React.js version
-
-🔌 REST API
-
-🚀 Future MERN Architecture
-
-              ┌─────────────────┐
-              │    React.js     │
-              │    Frontend     │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   Express.js    │
-              │    REST API     │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │     Node.js     │
-              │     Backend     │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │     MongoDB     │
-              │    Database     │
-              └─────────────────┘
-
-📚 What I Learned
+## 📚 What I Learned
 
 Through this project, I practiced:
 
-Building a complete webpage from scratch
+- Building a complete webpage from scratch
+- Organizing HTML structure
+- Creating reusable CSS
+- Flexbox & CSS Grid layouts
+- Responsive design & media queries
+- Image positioning
+- Card-based UI
+- Forms
+- Hover animations
+- Typography
+- Mobile-first thinking
+- Git and GitHub workflow
 
-Organizing HTML structure
+---
 
-Creating reusable CSS
-
-Flexbox layouts
-
-CSS Grid layouts
-
-Responsive design
-
-Media queries
-
-Image positioning
-
-Card-based UI
-
-Forms
-
-Hover animations
-
-Typography
-
-Mobile-first thinking
-
-Git and GitHub workflow
-
-Repository management
-
-🤝 Contributing
+## 🤝 Contributing
 
 This is primarily a personal learning and portfolio project, but suggestions are welcome.
 
+```bash
 git clone https://github.com/gayathrikrishnacodes/food.git
 cd food
 git checkout -b feature/your-feature
 git add .
 git commit -m "Add your feature"
 git push origin feature/your-feature
+```
 
-Then create a Pull Request.
+Then open a Pull Request.
 
-👩‍💻 Author
+---
 
-Gayathri Krishna
+## 👩‍💻 Author
 
-🎓 BCA Graduate
-💻 Full Stack Developer
-🌐 Web Development Enthusiast
+**Gayathri Krishna**
 
-Skills & Learning
+🎓 BCA Graduate · 💻 Full Stack Developer · 🌐 Web Development Enthusiast
 
-HTML
-CSS
-JavaScript
-React.js
-Node.js
-Express.js
-MongoDB
-Git
-GitHub
+**Skills & Learning:** HTML · CSS · JavaScript · React.js · Node.js · Express.js · MongoDB · Git · GitHub
 
-GitHub
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gayathrikrishnacodes)
 
-👉 https://github.com/gayathrikrishnacodes
+---
 
-⭐ Support
+## ⭐ Support
 
 If you like this project:
-
-⭐ Star the repository
-🍴 Fork the repository
-💬 Share your feedback
+- ⭐ Star the repository
+- 🍴 Fork the repository
+- 💬 Share your feedback
 
 <p align="center">
-
-🍕 CraveCraft
-
-Where every craving finds an idea. ❤️
-
-Made with HTML, CSS & lots of food inspiration.
-
+  <b>🍕 CraveCraft</b><br>
+  <i>Where every craving finds an idea. ❤️</i><br><br>
+  Made with HTML, CSS & lots of food inspiration.
 </p>
